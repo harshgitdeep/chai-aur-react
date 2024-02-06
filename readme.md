@@ -29,3 +29,19 @@ note: this method is fast, but there is no folder for node modules
 ====================================================
 
 
+package-lock is used to lock a stable version of dependency
+manigest.json -> used for mobile devices
+
+#### jsx files can return only one html tag
+#### to solve this problem we place all the tags inside <div></div>
+### or to make it easier we can also use <></> (know as fragment)
+
+
+=========================
+
+#### Some naming convention
+
+-> always name function names with capital letters (gives error if not capital) <br>
+-> also name component file as Capital.js or Capital.jsx (Doesn't give any error, but is best practice) <br>
+
+==============

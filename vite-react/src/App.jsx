@@ -1,8 +1,8 @@
+import Harsh from "./harsh"
 
 function App() {
-
   return (
-    <h1>Vite</h1>
+    <Harsh/>
   )
 }
 
