@@ -69,3 +69,8 @@ to install tailwind
 <b>https://tailwindcss.com/docs/guides/vite</b>
 
 Tailwind components ---> https://www.devui.io/components
+
+
+# Projects Live links
+## 1. counter -->
+## 2. bgchanger --> https://bgchanger-vite-react.netlify.app/

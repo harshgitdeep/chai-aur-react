@@ -5,7 +5,7 @@ function App() {
   const [color,setColor] = useState("pink")
   return (
     <div className="w-full h-screen duration-200" style={{backgroundColor:color}}>
-    <h1 className="text-5xl text-center font-bold text-shadow text-white py-20">REACT BACKGROUND CHANGER</h1>
+    <h1 className="text-5xl text-center font-bold drop-shadow-lg  text-white py-20">REACT BACKGROUND CHANGER</h1>
 
     <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
 
