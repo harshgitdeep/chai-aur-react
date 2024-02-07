@@ -58,5 +58,14 @@ In JavaScript, without React or hooks, you'd manually handle state management an
 
 In React, direct manipulation of the UI is discouraged because React relies on a virtual DOM to efficiently update the actual DOM. Instead, state changes are managed through hooks like useState, allowing for a declarative approach to UI updates. By updating state variables, React automatically re-renders components affected by those changes, ensuring a consistent and efficient UI without directly manipulating the DOM.
 
-example ./coutner-project
+ #### example ./coutner-project
 =============
+
+
+### Tailwind and Props
+
+to install tailwind 
+
+<b>https://tailwindcss.com/docs/guides/vite</b>
+
+Tailwind components ---> https://www.devui.io/components

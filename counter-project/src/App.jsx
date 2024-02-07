@@ -5,10 +5,23 @@ import './App.css'
 
 function App() {
 
-  let count = 15
+
+  let [count,setCounter] = useState(15)
 
   const addValue = () =>{
-    count= count+1;
+    if(count<20){
+      count = count+1;
+      setCounter(count)
+    }
+  }
+
+  
+  const decValue = () =>{
+    if(count>0){
+      count = count-1;
+      setCounter(count)
+    }
+    
   }
 
   return (
@@ -17,7 +30,7 @@ function App() {
      <h2>Current count: {count}</h2>
 
      <button onClick={addValue}>Increase</button>
-     <button>Decrease</button>
+     <button onClick={decValue}>Decrease</button>
     </>
   )
 }
