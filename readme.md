@@ -6,9 +6,9 @@ Welcome to the Chai Aur React Learning Repository! This repository is dedicated 
 "Chai Aur React" is a comprehensive course focused on teaching React.js, one of the most popular JavaScript libraries for building user interfaces. The course covers fundamental concepts of React.js along with practical examples and hands-on projects.
 
 ## React Projects Live Links
-1. **Counter**: [Live Demo](https://counter-vite-react.netlify.app/)
-2. **BGChanger**: [Live Demo](https://bgchanger-vite-react.netlify.app/)
-3. **Password Generator**: [Live Demo](https://password-generator-vite-react.netlify.app/)
+1. **Counter**: [Live Demo](https://counter-vite-react.netlify.app/) [Repo](./counter-project/)
+2. **BGChanger**: [Live Demo](https://bgchanger-vite-react.netlify.app/)  [Repo](./bgchanger-project/)
+3. **Password Generator**: [Live Demo](https://password-generator-vite-react.netlify.app/) [Repo](./password-generator-project/)
 
 Feel free to explore these live demos to see the projects in action!
 
