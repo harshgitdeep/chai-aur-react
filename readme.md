@@ -71,6 +71,7 @@ to install tailwind
 Tailwind components ---> https://www.devui.io/components
 
 
-# Projects Live links
-## 1. counter -->
+# React Projects live links
+## 1. counter --> https://counter-vite-react.netlify.app/
 ## 2. bgchanger --> https://bgchanger-vite-react.netlify.app/
+## 3. password generator --> 

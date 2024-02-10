@@ -27,6 +27,8 @@ function App() {
   return (
     <>
      <h1>This is a counter react application</h1>
+     <h3>Max value: 20 , Min value: 0</h3>
+     <br />
      <h2>Current count: {count}</h2>
 
      <button onClick={addValue}>Increase</button>
