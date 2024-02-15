@@ -71,3 +71,15 @@ to install tailwind
 Tailwind components ---> https://www.devui.io/components
 
 
+======================
+
+### custom hooks
+
+mostly data that comes form api are string 
+so the data is required to be converted into string 
+
+
+### . then function
+// fetch('https://api.example.com/data') returns a Promise representing the API call.
+// The first .then() parses the JSON response.
+// The second .then() updates the component's state with the parsed data using useState.
