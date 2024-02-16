@@ -7,10 +7,8 @@ Welcome to the Chai Aur React Learning Repository! This repository is dedicated 
 
 ## React Projects Live Links
 1. **Counter**: [Live Demo](https://counter-vite-react.netlify.app/) [Repo](./counter-project/)
-<<<<<<< HEAD
 2. **BGChanger**: [Live Demo](https://bgchanger-vite-react.netlify.app/)  [Repo](./bgchanger-project/)
 3. **Password Generator**: [Live Demo](https://password-generator-vite-react.netlify.app/) [Repo](./password-generator-project/)
-=======
 2. **BgChanger**: [Live Demo](https://bgchanger-vite-react.netlify.app/)  [Repo](./bgchanger-project/)
 3. **Password Generator**: [Live Demo](https://password-generator-vite-react.netlify.app/) [Repo](./password-generator-project/)
 4. **Currency Convertor**: [Live Demo](https://moneymorph-convertor.netlify.app/) [Repo](./password-currency-convertor-project/)
